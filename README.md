@@ -1,6 +1,6 @@
 <h1>Microsoft Coding Competition</h1>
 
-<p>This was a coding competition at OSU. The problem description is below. Unfortunately at the competition my code took too long due to rechecking the same dna fragments (over 7 minutes!!). After I left and returned home I was able to solve this problem in just a few minutes by adding the if(){} statements in the mutations(String dna) function. They function to check if a given dna fragment has already been added to the muts (all possible mutations) data structure</p>
+<p>This was a coding competition at OSU. The problem description is below. At the competition I wasn't quite able to finish due to program inefficiencies. After I left and returned home I was able to solve this problem in just a few minutes by adding the if(){} statements in the mutations(String dna) function. They function to check if a given dna fragment has already been added to the muts (all possible mutations) data structure</p>
 
 <h3>Project Description</h3>
 <p>Question One Cure the virus | 3 point(s)</p></br>
